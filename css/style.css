@@ -983,7 +983,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #89889C;
+  background: #2dc997;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -991,7 +991,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"]:hover {
-  background: #89889C;
+  background: #51d8ad;
 }
 
 /*--------------------------------------------------------------
